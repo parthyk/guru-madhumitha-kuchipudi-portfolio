@@ -48,7 +48,7 @@ Keep biography, credentials, venues, and awards factual. Do not add social profi
 
 ## Images
 
-Original source photographs are kept in `Images/` and are intentionally excluded from Git. Optimized AVIF/WebP variants, responsive metadata, the Open Graph image, and favicons are generated into `public/` and `src/data/imageManifest.json`.
+Original source photographs are kept in `source-images/` and are intentionally excluded from Git. Optimized AVIF/WebP variants, responsive metadata, the Open Graph image, and favicons are generated into `public/` and `src/data/imageManifest.json`.
 
 ```bash
 npm run images

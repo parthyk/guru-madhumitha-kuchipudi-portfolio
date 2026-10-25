@@ -9,7 +9,7 @@ dist-ssr/
 screenshots/
 
 # Local source assets (optimised copies live in public/images)
-/Images/
+/source-images/
 
 # Environment
 .env

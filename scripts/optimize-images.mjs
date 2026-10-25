@@ -3,7 +3,7 @@ import path from "node:path";
 import sharp from "sharp";
 
 const root = path.resolve(process.cwd());
-const sourceDir = path.join(root, "Images");
+const sourceDir = path.join(root, "source-images");
 const outputDir = path.join(root, "public", "images");
 const manifestPath = path.join(root, "src", "data", "imageManifest.json");
 
