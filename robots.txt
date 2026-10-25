@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://parthyk.github.io/guru-madhumitha-kuchipudi-portfolio/sitemap.xml
