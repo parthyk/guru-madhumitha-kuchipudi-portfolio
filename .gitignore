@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Local QA screenshots
+screenshots/
+
+# Local source assets (optimised copies live in public/images)
+/Images/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Editor and OS
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+*.local
+
+# Logs
+*.log
+npm-debug.log*
